@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VBIT
+Comment=VBIT P2P Cryptocurrency
+Comment[fr]=VBIT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VBIT, eşten eşe kriptografik sanal para birimi
+Exec=vbit-qt %u
+Terminal=false
+Type=Application
+Icon=vbit128
+MimeType=x-scheme-handler/vbit;
+Categories=Office;Finance;

@@ -1,0 +1,11 @@
+[Protocol]
+exec=vbit-qt '%u'
+protocol=vbit
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

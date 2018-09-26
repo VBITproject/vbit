@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ca">locale/vbit_ca.qm</file>
+        <file alias="da">locale/vbit_da.qm</file>
+        <file alias="de">locale/vbit_de.qm</file>
+        <file alias="en">locale/vbit_en.qm</file>
+        <file alias="en_US">locale/vbit_en_US.qm</file>
+        <file alias="es">locale/vbit_es.qm</file>
+        <file alias="fr_FR">locale/vbit_fr_FR.qm</file>
+        <file alias="it">locale/vbit_it.qm</file>
+        <file alias="ja">locale/vbit_ja.qm</file>
+        <file alias="pt">locale/vbit_pt.qm</file>
+        <file alias="ro_RO">locale/vbit_ro_RO.qm</file>
+        <file alias="ru">locale/vbit_ru.qm</file>
+        <file alias="zh_TW">locale/vbit_zh_TW.qm</file>
+    </qresource>
+</RCC>
